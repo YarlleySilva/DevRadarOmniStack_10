@@ -21,7 +21,7 @@ O projeto consiste na construção de uma aplicação completa para encontrar ou
 ### Tela Web/FrontEnd.
 
 <h1 align="center">
-    <img alt="DevRadar" src="./web/src/assets/web.Png"/>
+    <img alt="DevRadar" src="./web/src/assets/web.png" width="600px" />
 </h1>
 
 ###  Requerimentos / Dependências
